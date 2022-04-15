@@ -1,8 +1,7 @@
 {
-  "name": "remix-template-vercel",
-  "private": true,
-  "description": "",
-  "license": "",
+  "name": "inpost-qr-generator",
+  "description": "Website for generating QR codes for InPost parcel lockers",
+  "license": "MIT",
   "sideEffects": false,
   "scripts": {
     "build": "npm run build:css && remix build",
