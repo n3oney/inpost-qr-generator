@@ -1,0 +1,6 @@
+api/
+public/build/
+app/styles/app.css
+.cache/
+node_modules/
+package-lock.json
